@@ -24,6 +24,4 @@ This Expense Tracker Web App is a simple tool built with HTML, CSS, and JavaScri
 - Transactions are stored locally to maintain data persistence between sessions.
 
 ## How to Run
-Simply open the `index.html` file in a web browser to start using the Expense Tracker.
-
-Feel free to enhance and customize the code to suit your preferences or integrate additional features!
+Simply open the `index.html` file in a web browser 
